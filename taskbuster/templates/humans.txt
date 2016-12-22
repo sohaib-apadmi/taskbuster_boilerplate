@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sohaib Ashraf -- Developer -- sohaib.ashraf94@gmail.com
 
 # THANKS
 
@@ -11,5 +11,6 @@
 
 # TECHNOLOGY COLOPHON
 
+    Django 
     HTML5, CSS3
     jQuery, Modernizr
